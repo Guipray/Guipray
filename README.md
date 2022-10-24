@@ -1,4 +1,4 @@
-## Olá! me chamo Guilherme, seja bem vindo ao meu perfil.
+## Olá! me chamo Guilherme, seja bem vindo ao meu perfil!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Hello+World+%3C3)](https://git.io/typing-svg)<br>
 
 
@@ -17,9 +17,9 @@
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-Rstudio" height="30" width="40" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img align="center" alt="Gui-Rstudio" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gui-Rstudio" height="30" width="40" src="https://camo.githubusercontent.com/ad7293939c16e73991b8d60763373b710bf9e96923595e8dd90fb7dee464e9ce/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667">
    
   <img align="right" alt="Gui-avatar" height="150" style="border-radius:50px;" src="https://instagram.fcnf5-1.fna.fbcdn.net/v/t51.2885-19/159232998_432811784667043_7274575491953442178_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcnf5-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=yamxK5Zo-bUAX9qsVjd&edm=AId3EpQBAAAA&ccb=7-5&oh=00_AT-9635c3QOWj0gdvezD9Zq_DDtA3qUGXnxJ5fp93p-LOg&oe=635B8F53&_nc_sid=705020">
 </div>
