@@ -21,7 +21,7 @@
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-Rstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    
-  <img align="right" alt="Gui-avatar" height="150" style="border-radius:50px;" src="https://instagram.fcnf5-1.fna.fbcdn.net/v/t51.2885-19/159232998_432811784667043_7274575491953442178_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcnf5-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=yamxK5Zo-bUAX9qsVjd&edm=AId3EpQBAAAA&ccb=7-5&oh=00_AT-9635c3QOWj0gdvezD9Zq_DDtA3qUGXnxJ5fp93p-LOg&oe=635B8F53&_nc_sid=705020">
+  <img align="right" alt="Gui-avatar" height="150" style="border-radius:50px;" src="https://instagram.fcnf5-1.fna.fbcdn.net/v/t51.2885-19/159232998_432811784667043_7274575491953442178_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcnf5-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=y7kAjii1ItkAX-irOyk&edm=ABmJApABAAAA&ccb=7-5&oh=00_AfCIyMrisbgt0HYyXRWJ4FZY7u48sHbZcUL4T_XMTE5uzQ&oe=63715013&_nc_sid=6136e7">
 </div>
   
   ##
