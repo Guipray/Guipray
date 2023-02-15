@@ -5,13 +5,13 @@
 - 🔍 Aprimorando meu conhecimento para ser um otimo profissional na área.
 - 🎓 Estudante de Programação.
 
-<br>
-<div align="center">
-  <a href="https://github.com/Guipray">
-  <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=Guipray&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guipray&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
+<a href="https://github.com/guipray/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guipray&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/guipray/">
+  <img align="center" height="485" width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipray&theme=merko&layout=compact" />
+</a>
+  
  <h2 align="center">Tecnologias💻👨‍💻</h2>
 <div style="display: inline_block">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,8 +20,6 @@
   <img align="center" alt="Gui-Rstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-Rstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-   
-  <img align="right" alt="Gui-avatar" height="150" style="border-radius:50px;" src="https://instagram.fcnf5-1.fna.fbcdn.net/v/t51.2885-19/159232998_432811784667043_7274575491953442178_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcnf5-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Kek0xD6L3IEAX9z0djq&edm=ABmJApABAAAA&ccb=7-5&oh=00_AfADQbbabFQFPoDAuBuDd_hhUn7Z958tuoeuQzN146007w&oe=6396E2D3&_nc_sid=6136e7">
 </div>
   
   ##
