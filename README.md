@@ -5,12 +5,10 @@
 - 🔍 Aprimorando meu conhecimento para ser um otimo profissional na área.
 - 🎓 Estudante de Programação.
 
-<a href="https://github.com/guipray/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guipray&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/guipray/">
-  <img align="center" height="485" width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipray&theme=merko&layout=compact" />
-</a>
+<br>
+
+  <a href="https://github.com/Guipray"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guipray&show_icons=true&theme=merko)
+  <a href="https://github.com/Guipray"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guipray&theme=merko&layout=compact)
   
  <h2 align="center">Tecnologias💻👨‍💻</h2>
 <div style="display: inline_block">
