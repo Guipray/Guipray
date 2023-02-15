@@ -1,4 +1,5 @@
-## Olá! me chamo Guilherme, seja bem vindo ao meu perfil!
+## Olá! Eu me chamo Guilherme!
+### Seja Bem Vindo ao meu Perfil! ❤
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFF85ff&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Bem+Vindo!+%3C3)](https://git.io/typing-svg)<br>
 
 
